@@ -1,1 +1,1 @@
-# Twitter_Disaster_Response_Pipeline
+# Disaster Response Pipeline
